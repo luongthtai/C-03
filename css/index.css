@@ -1,0 +1,22 @@
+body {
+    width: 100%;
+}
+
+nav {
+    background-color: #3c3939;
+    font-size: 36px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    padding: 0px 12px;
+}
+
+.active {
+    background-color: dodgerblue;
+}
+
+nav a:hover {
+    background-color: tomato;
+}

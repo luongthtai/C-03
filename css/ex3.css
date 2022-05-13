@@ -1,0 +1,29 @@
+body {
+    width: 100%;
+    position: relative;
+}
+
+.cover {
+    height: 300px;
+    color: white;
+    overflow: hidden;
+    position: relative;
+}
+
+h1 {
+    position: absolute;
+    top: 200px;
+    left: 350px;
+    color: white;
+}
+
+.cover img {
+    width: 100%;
+}
+
+.avarta {
+    width: 200px;
+    height: 200px;
+    border: 10px solid white;
+    position: absolute;left: 100px;top: 150px;
+}
