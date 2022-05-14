@@ -25,5 +25,7 @@ h1 {
     width: 200px;
     height: 200px;
     border: 10px solid white;
-    position: absolute;left: 100px;top: 150px;
+    position: absolute;
+    left: 100px;
+    top: 150px;
 }
